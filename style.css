@@ -1,0 +1,44 @@
+
+* {
+    font-family: arial;
+}
+
+#title {
+    text-align: center;
+    font-size: 5vh;
+}
+
+#conteiner {
+    text-align: center;
+}
+
+input {
+    height: 5vh;
+    width: 45vh;
+    font-size: 3vh;
+}
+
+button {
+    display: block;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    margin-top: 5vh;
+    width: 30vh;
+    height: 6vh;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+
+#boxResultados {
+    text-align: center;
+}
+
+small {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: red;
+    padding-left: 2vh;
+    border-radius: 2px;
+}
