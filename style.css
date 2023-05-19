@@ -42,3 +42,19 @@ small {
     padding-left: 2vh;
     border-radius: 2px;
 }
+
+
+
+
+
+@media screen and (orientation: landscape){
+    
+    #title {
+        font-size: 9vh;
+    }
+    
+    button {
+        height: 9vh;
+    }
+    
+}
